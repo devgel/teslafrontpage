@@ -1,17 +1,16 @@
 {
-  "name": "tesla_frotpage_recreated",
+  "name": "tesla_frontpage_recreated",
   "version": "1.0.0",
-  "description": "TESLA WEBSITE FRONT PAGE",
-  "main": "main.js",
-  "homepage": "https://devgel.github.io/tesla_frontpage_recreated",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d tesla frontpage recreated"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/devgel/tesla_frontpage_recreated.git"
   },
-  "author": "Argel Policarpio",
+  "author": "Argel C. Policarpio",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/devgel/tesla_frontpage_recreated/issues"
